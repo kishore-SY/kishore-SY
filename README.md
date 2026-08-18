@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **☁️ AWS / Google Cloud ⚡ FastAPI 🤖 Machine Learning & Deep Learning ✨ Generative AI 🔗 LangChain 🧠 Vector Databases (Vector DB) 📊 Power BI & Data Analytics**
 
-- 📫 How to reach me **kishore.y.becse@gmail.com**
+- 📫 How to reach me **📧 Email: kishore.y.becse@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/kishore-a-137441284🐙 GitHub: https://github.com/kishore-SY 📍 Location: India**
 
-- ⚡ Fun fact **I enjoy building AI solutions to solve real-world problems.**
+- ⚡ Fun fact **I learn by building, experimenting, and turning ideas into AI solutions. 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
