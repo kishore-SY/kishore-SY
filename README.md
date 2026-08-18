@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **🐍 Advanced Python (3.13, 3.14), 🗄️ Advanced SQL, 🔗 Relational Databases**
 
-- 👯 I’m looking to collaborate on [python developer, Data Analyst, Data Scientist, Data Engineer](https://github.com/kishore-SY)
+- 👯 I’m looking to collaborate on **python developer, Data Analyst, Data Scientist, Data Engineer**
 
-- 🤝 I’m looking for help with [AI/ML & Generative AI](https://github.com/kishore-SY)
+- 🤝 I’m looking for help with **AI/ML & Data Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kishore-SY](https://github.com/kishore-SY)
 
-- 💬 Ask me about **Python, AI/ML, Data Science, RAG, LangChain**
+- 💬 Ask me about **☁️ AWS / Google Cloud ⚡ FastAPI 🤖 Machine Learning & Deep Learning ✨ Generative AI 🔗 LangChain 🧠 Vector Databases (Vector DB) 📊 Power BI & Data Analytics**
 
 - 📫 How to reach me **kishore.y.becse@gmail.com**
 
